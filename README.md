@@ -9,6 +9,7 @@ A place where I track my journey from unhealthy to healthy living.
 ## How to track?
 1. Starting with the most important things, I will upload the most important metrics here regularly.
 0. Err on the side of updating too infrequently so as not to get overwhelmed because it is more important to keep tracking than to track a lot of data.
+0. Use tools such as ListEditor.exe to record things and prioritize them by rank.
 
 ## What are the most important things?
 1. Sleep - so far this is the main factor in feeling healthy each day
